@@ -3,12 +3,14 @@
     {
       "id": 1,
       "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
+      "author": "Alice Walker",
+      "likes": 5
     },
     {
       "id": 2,
       "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
-      "author": "Hannah Gadsby"
+      "author": "Hannah Gadsby",
+      "likes": 1
     },
     {
       "id": 3,
@@ -54,6 +56,12 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "Love Quotes ",
+      "author": "A.",
+      "likes": 0,
+      "id": 12
     }
   ],
   "likes": [
